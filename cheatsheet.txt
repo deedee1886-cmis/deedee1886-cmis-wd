@@ -1,0 +1,15 @@
+ls - list all files and folders 
+
+clear- clear everything at
+
+ls (folder name) - opens up the folder
+
+cd (foldername - puts you into your folder
+
+gedit "file name" - opens the file or creates a new one
+
+git add filename
+
+git commit -m "Commit message"
+
+git push
