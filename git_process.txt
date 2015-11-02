@@ -1,0 +1,21 @@
+1- click on the menu icon on the bottom right of the screen
+
+2- once you are in the menu click on the search bar and type terminal, then click enter
+
+3- once in terminal paste   git clone --config="http.proxy=http://deedee1886:eedeed@192.168.2.1:8080" https://github.com/deedee1886-cmis/deedee1886-cmis-wd.git  when in terminal you have to paste by pressing shift and insert
+
+4- type cd deedee1886-cmis-wd, this will bring you into your WD folder
+
+5- now to create a file you have to type gedit (file name), this will create a new file using gedit (the text program that we are using)
+
+6- now start doing your work within gedit, when you are done click on file on the top right, then click on save
+
+7- go back to terminal, type in git add (file name), press enter. Type in git commit -m (description of what you did), press enter. Type in git push, press enter.
+
+8- close your gedit
+
+9- terminal will then save and ask for your github username, which you will then type that and press enter. Afterwards terminal will ask for your github password, type that in (note the password is hidden, it will look like you are not typing), press enter
+
+10- now you are all done, you have created a gedit file and saved it successfully, now you can exit out of terminal
+
+
