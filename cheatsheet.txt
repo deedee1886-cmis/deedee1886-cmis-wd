@@ -8,8 +8,18 @@ cd (foldername - puts you into your folder
 
 gedit "file name" - opens the file or creates a new one
 
-git add filename
+git add filename- save process	
 
-git commit -m "Commit message"
+git commit -m "Commit message"- save process
 
-git push
+git push- save process
+
+mkdir "folder name"- creates a new folder
+
+rm "file name" to remove files
+
+rmdir- removes folder
+
+
+
+
