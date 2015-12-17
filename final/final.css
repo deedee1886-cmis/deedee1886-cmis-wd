@@ -1,0 +1,34 @@
+body{
+background-image:url("http://orig10.deviantart.net/3fb0/f/2014/241/c/1/simple_background_by_hexdef101-d7x7rup.png");
+}
+h1 {
+border:1px solid;
+border-color:green;
+}
+nav{
+width:px;
+float:left;
+border:2.9px solid;
+border-color:green;
+}
+main{
+border:3px solid;
+border-color:green;
+margin-left:401px;
+font-family:'Source Sans Pro',sans-serif;
+}
+p{
+border:2px solid;
+border-style:solid none;
+border-color:green;
+padding:0cm 10cm 0cm 1cm;
+}
+h1{
+font-family: 'Anton',sans-serif;
+border:3px solid;
+padding:0cm 2cm 0cm 2cm;
+}
+img{
+border:3px solid;
+border-color:white;
+}
